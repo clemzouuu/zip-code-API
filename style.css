@@ -1,0 +1,23 @@
+body {
+    background-color: #aaaaaa;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: larger;
+}
+
+ul,li {
+    list-style-type: none;
+}
+
+main {
+    position: relative;
+    top: -200px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    min-height: 170px;
+    background-color: rgb(210, 210, 210);
+}
